@@ -2,5 +2,7 @@ Le projet à été mené à bien dans le cadre de l'examen du BTS (développemen
 
 
 1.Les deux utilisateurs enregistrés dans la base de donnée sont: tech1 et tech2, leur mot de passe est:admin. 
+
 2.Les différentes entrées supportées pour "nom du poste" dans la fenetre "reporter un accident" sont: "ACCUEIL" et "COMPTA". 
+
 3.Les différentes entrées supportées pour "type d'incident" dans la fenête "reporter un accident" sont: "internet", "panne" et "virus".
